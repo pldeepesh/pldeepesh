@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Lakshman Deepesh 👋</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    width="30px" height="30px">, I'm Deepesh</h1>
+<h3 align="center">Data Science and AI</h3>
 
 <!--<p align="center">
   <img src="https://user-images.githubusercontent.com/yourimage.jpg" width="300" height="300">
@@ -36,7 +40,10 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pldeepesh&column=7&theme=gruvbox"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pldeepesh&column=6&theme=gruvbox&no-frame=true&title=Stars,Followers,Commit,PR,Repo,Issues,reviews"/>
+</p>
+<p align="center">
+  <img src="https://www.codewars.com/users/pldeepesh/badges/large">
 </p>
 
 <h2 align="center">📊 GitHub Stats, Codewars Rank, and Top Languages</h2>
@@ -44,15 +51,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pldeepesh&show_icons=true&theme=radical">
+      <img src="https://github-readme-stats.vercel.app/api?username=pldeepesh&show_icons=true&theme=gotham&mode=weekly&border=false">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pldeepesh&layout=compact&theme=radical">
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pldeepesh&theme=whatsapp-dark&mode=weekly" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
 <p align="center">
-  <img src="https://www.codewars.com/users/pldeepesh/badges/large">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pldeepesh&layout=donut-vertical&theme=radical">
 </p>
 
 <h2 align="center">📫 How to Reach Me</h2>
@@ -66,8 +73,15 @@
 <h2 align="center">⚽ Hobbies</h2>
 
 <p align="center">
-  A huge fan of cricket, an avid Raspberry Pi tinkerer, and a writer on Medium.
+  <strong>Cricket Enthusiast:</strong> Not just a fan of the game, but also an active participant. Whether watching international matches or playing in local leagues, cricket is a passion that excites and inspires me. I'm deeply involved in the nuances of the game, always eager to discuss strategies and historic matches.
 </p>
+<p align="center">
+  <strong>Raspberry Pi Tinkerer:</strong> I leverage my Raspberry Pi for a variety of projects, from creating custom home automation systems to developing unique applications that challenge the conventional use of technology. Each project is an opportunity to learn and apply my coding skills in innovative ways.
+</p>
+<p>
+  <strong>Writer on Medium:</strong> I share my insights and experiences on Medium, covering topics from the latest in technology and software development to detailed tutorials and guides for beginners. My articles aim to demystify complex concepts and provide practical advice to fellow enthusiasts. Check out my work here: [My Medium Articles](https://medium.com/@pldeepesh).
+</p>
+
 <!--<p align="center">
   <img src="https://user-images.githubusercontent.com/yourhobbyimage.jpg" width="400" height="200">
 </p>-->
