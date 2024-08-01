@@ -17,6 +17,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/lakshmanadeepesh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="https://medium.com/@pldeepesh"><img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium"></a>
+<a href="https://x.com/lakshmandeepesh"> <img src="https://img.shields.io/twitter/follow/pldeepesh?label=Follow"></a>
+<a href="https://www.lakshmanadeepesh.in"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white"></a>
 </p>
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
